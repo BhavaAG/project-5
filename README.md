@@ -11,7 +11,7 @@ solution 2(decimal to octal):
 2.use a method called oct()
 3.call the function
 
-soluton 3(decimal to hexa):
+solution 3(decimal to hexa):
 1.define a function name hexadecimal and give the input
 2.use a method "{0:x}".format(input number) and store it to the variable
 3.print the variable and call the function
